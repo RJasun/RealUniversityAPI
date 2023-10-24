@@ -1,0 +1,12 @@
+{
+    "name": "renar/university-api",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "rinvex/countries": "^7.3"
+    }
+}
